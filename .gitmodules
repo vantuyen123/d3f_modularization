@@ -1,0 +1,21 @@
+[submodule "d3f_core"]
+	path = d3f_core
+	url = https://github.com/DanhDue/d3f_core.git
+[submodule "d3f_modular"]
+	path = d3f_modular
+	url = https://github.com/DanhDue/d3f_modular.git
+[submodule "d3f_inapp_purchase"]
+	path = d3f_inapp_purchase
+	url = https://github.com/DanhDue/d3f_inapp_purchase.git
+[submodule "d3f_login"]
+	path = d3f_login
+	url = https://github.com/DanhDue/d3f_login.git
+[submodule "d3f_shared"]
+	path = d3f_shared
+	url = https://github.com/DanhDue/d3f_shared.git
+[submodule "d3f_networking"]
+	path = d3f_networking
+	url = https://github.com/DanhDue/d3f_networking.git
+[submodule "d3f_dependency_manager"]
+	path = d3f_dependency_manager
+	url = https://github.com/DanhDue/d3f_dependency_manager.git
